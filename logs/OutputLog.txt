@@ -1,0 +1,11 @@
+C:\Oracle\Middleware\jdk160_21\bin\javaw.exe -client -classpath E:\Oracle\MAHESH\scCode\trunk\SolutionsCatalog\.adf;E:\Test\JdevWorkspace\target;C:\Oracle\Middleware\jdeveloper\jdev\extensions\oracle.jdeveloper.junit\junit4.5\junit-4.5.jar;C:\Oracle\Middleware\jdeveloper\jdev\extensions\oracle.jdeveloper.junit\junit3.8.1\junit.jar;C:\Oracle\Middleware\jdeveloper\apache-maven-2.1.0\lib\maven-2.1.0-uber.jar;C:\Oracle\Middleware\jdeveloper\apache-maven-2.1.0\boot\classworlds-1.1.jar;C:\Oracle\Middleware\jdeveloper\ant\lib\maven-ant-tasks-2.0.9.jar;C:\Oracle\Middleware\jdeveloper\ant\lib\ant-nodeps.jar;C:\Oracle\Middleware\jdeveloper\ant\lib\ant.jar;C:\Oracle\Middleware\jdeveloper\jdev\extensions\oracle.jdeveloper.junit.jar;C:\Oracle\Middleware\jdeveloper\jdev\lib\junit4-rt.jar;C:\Oracle\Middleware\jdeveloper\jdev\lib\junit3-rt.jar -Djavax.net.ssl.trustStore=C:\Oracle\Middleware\wlserver_10.3\server\lib\DemoTrust.jks oracle.jdevimpl.junit.runner.JUnitTestRunner -port 62555 -v4Tests com.nasdaq.test.NumberPuzzleTest
+Started JUnit Test Runner (v4)
+
+Sum for (n=1, C=2) => 0
+Sum for (n=2, C=2) => 1
+Sum for (n=5, C=2) => 21
+Sum for (n=10, C=5) => 25233
+Sum for (n=100, C=10) => 513946235090696089113
+ First ten digits: 
+ Sum for (n=1000000 c=200) => 4876116127
+Process exited with exit code 1.

@@ -1,0 +1,4 @@
+Compiling...
+Context: MakeProjectAndDependenciesCommand application=SolutionsCatalog.jws project=NasdaqTest.jpr 
+Nothing to build.
+[1:21:11 PM] Successful compilation: 0 errors, 0 warnings.
